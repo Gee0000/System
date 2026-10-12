@@ -1,0 +1,26 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "admin",
+            "password": "admin123",
+            "role": "Admin",
+            "full_name": "System Administrator"
+        },
+        {
+            "id": 2,
+            "username": "teacher",
+            "password": "teacher123",
+            "role": "Teacher",
+            "full_name": "SMCII Teacher"
+        },
+        {
+            "id": 3,
+            "username": "student",
+            "password": "student123",
+            "role": "Student",
+            "full_name": "Sample Student"
+        }
+    ],
+    "grades": []
+}
